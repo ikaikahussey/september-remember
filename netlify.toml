@@ -4,9 +4,8 @@
 # “command” is your build command.
 
 [build]
-  base    = ""
-  publish = "public"
-  command = "gatsby deploy"
+  publish = "public/"
+  command = "gatsby build"
 
 # Production context: All deploys to the main
 # repository branch will inherit these settings.
