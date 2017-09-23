@@ -5,4 +5,4 @@ category: Politics
 tags:
   - ''
 ---
-This is a new post.
+This is a test of a new post.
