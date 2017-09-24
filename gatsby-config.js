@@ -1,9 +1,18 @@
 module.exports = {
   siteMetadata: {
-    title: "Gatsby Starter Blog",
-    author: "Kyle Mathews",
+    title: "Ikaika Hussey",
+    author: "Ikaika Hussey",
   },
   plugins: [
+/*
+    {
+      resolve: `gatsby-source-contentful`,
+      options: {
+        spaceId: `e3o65rp9piu5`,
+        accessToken: `025a11fce6fc321116e8531378d46bd5ba88de346000a3abf027194f335f94fc`,
+      },
+    },
+*/
     {
       resolve: `gatsby-source-filesystem`,
       options: {
